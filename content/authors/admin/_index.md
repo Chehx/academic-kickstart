@@ -41,7 +41,7 @@ Degree:
 social:
 - icon: envelope
   icon_pack: fas
-  link: <mailto:chehx.cs@gmail.com>
+  link: mailto:hehx.cs@gmail.coms
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #  icon_pack: fab
