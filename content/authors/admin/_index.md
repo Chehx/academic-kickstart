@@ -46,7 +46,7 @@ social:
 
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/chehx
+  link: https://www.linkedin.com/in/chehx
 
 # - icon: twitter
 #  icon_pack: fab
