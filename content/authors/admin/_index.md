@@ -43,6 +43,11 @@ social:
   icon_pack: fas
 # link: mailto:chehx.cs@gmail.com
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon:linkedin
+  icon_pack:fab
+  link: www.linkedin.com/in/chehx
+
+
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
