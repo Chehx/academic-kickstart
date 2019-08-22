@@ -51,7 +51,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/chehx
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,4 +70,3 @@ user_groups:
 Haoxuan Che (车昊轩) is a Ph.D. student in [Network Communications and Economics Lab (NCEL)](http://ncel.ie.cuhk.edu.hk/) led by Professor [Jianwei Huang](http://jianwei.ie.cuhk.edu.hk/) at the Chinese University of Hong Kong, Shenzhen (CUHKSZ). He received his bachelor degree with the honor of outstanding graduate at Northwestern Polytechnical University (NWPU), Xi'an, China. His current research interests include machine learning, optimization, game theory, crowd intelligence, and network economics.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
