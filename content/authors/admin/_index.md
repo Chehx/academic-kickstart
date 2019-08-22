@@ -25,7 +25,7 @@ interests:
 - Crowd Intelligence
 - Machine Learning
 
-Degree:
+Education:
   courses:
   - course: PhD in Computer and Information Engineering
     institution: The Chinese University of Hong Kong
@@ -41,7 +41,7 @@ Degree:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:hehx.cs@gmail.coms
+  link: mailto:chehx.cs@gmail.com
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #  icon_pack: fab
