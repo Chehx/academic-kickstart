@@ -22,19 +22,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Crowd Intelligence
+- Machine Learning
 
-education:
+Degree:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Computer and Information Engineering
+    institution: The Chinese University of Hong Kong
+    year: 2023 (Expected)
+  - course: BSc in Software Engineering
+    institution: Northwestern Polytechnical University
     year: 2008
 
 # Social/Academic Networking
@@ -69,7 +66,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Haoxuan Che (车昊轩) is a Ph.D. student in Network Communications and Economics Lab (NCEL) led by Professor Jianwei Huang at the Chinese University of Hong Kong, Shenzhen (CUHKSZ). He received his bachelor degree with the honor of outstanding graduate at Northwestern Polytechnic University (NWPU), Xi'an, China. His current research interests include machine learning, optimization, game theory, crowd intelligence, and network economics.
+Haoxuan Che (车昊轩) is a Ph.D. student in Network Communications and Economics Lab (NCEL) led by Professor Jianwei Huang at the Chinese University of Hong Kong, Shenzhen (CUHKSZ). He received his bachelor degree with the honor of outstanding graduate at Northwestern Polytechnical University (NWPU), Xi'an, China. His current research interests include machine learning, optimization, game theory, crowd intelligence, and network economics.
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
