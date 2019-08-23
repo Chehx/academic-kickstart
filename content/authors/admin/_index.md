@@ -72,7 +72,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Haoxuan Che (车昊轩) is a first year Ph.D. student in Network Communications and Economics Lab ([NCEL](http://ncel.ie.cuhk.edu.hk/)) led by [Prof. Jianwei Huang](http://jianwei.ie.cuhk.edu.hk/) at the Chinese University of Hong Kong, Shenzhen (CUHKSZ). He received his bachelor degree with the honor of outstanding graduate at Northwestern Polytechnical University (NWPU), Xi'an, China. 
+Haoxuan Che (车昊轩) is a first-year Ph.D. student in Network Communications and Economics Lab ([NCEL](http://ncel.ie.cuhk.edu.hk/)) led by [Prof. Jianwei Huang](http://jianwei.ie.cuhk.edu.hk/) at the Chinese University of Hong Kong, Shenzhen (CUHKSZ). He received his bachelor degree with the honor of outstanding graduate at Northwestern Polytechnical University (NWPU), Xi'an, China. During his undergraduate period, he ranked two among 252 students comprehensively, and he had the honor of national scholarship twice and won a lot of first and special awards in national and international competitions. The detail is shown in his CV if you are interested in.
 
 His current research interests include machine learning, optimization, game theory, crowd intelligence, and network economics.
 
