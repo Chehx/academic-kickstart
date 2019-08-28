@@ -32,7 +32,7 @@ Education:
     year: 2023 (Expected)
   - course: BSc in Software Engineering
     institution: Northwestern Polytechnical University
-    year: 2008
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
