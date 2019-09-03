@@ -63,8 +63,8 @@ phone = "Please ask me face to face"
 address = "Building Zhixin Room 305, The Chinese University of Hong Kong, Shenzhen, China"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = """Friday 19:00 to 20:00<br>
+                  Monday 19:00 to 20:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
